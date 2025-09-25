@@ -8,8 +8,7 @@
 - Hi! I'm **Dendra De Tama**, a student at **SMK TI Bali Global Denpasar**, majoring in **Software Engineering**.  
 - 🔥 Passionate about **Web Development** and **UI/UX Design**.  
 - ⚡ Skilled in:  
-  - **React** → building functional & responsive web applications.  
-  - **Golang** → creating efficient & scalable backends.  
+  - **React** → building functional & responsive web applications.    
   - **Figma** → designing modern & user-friendly interfaces.  
 - 🎯 Focused on:  
   - Developing innovative and user-centered digital solutions.  
