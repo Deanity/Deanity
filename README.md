@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/dendra-de-tama/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/shoyou.nt/" target="_blank">
+  <a href="www.instagram.com/shoyou.nt/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
   </a>
   <a href="https://wa.me/+6281239021528" target="_blank">
