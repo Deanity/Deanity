@@ -106,7 +106,5 @@ Hey! I'm **Dendra De Tama** aka `De4nity` — a passionate developer & designer 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deanity&style=flat-square&color=00F7FF" alt="Profile Views"/>
-  <br/><br/>
   <i>"Code is art. Make it beautiful."</i> — De4nity
 </div>
