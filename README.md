@@ -27,7 +27,7 @@
 
 Hey! I'm **Dendra De Tama** aka `De4nity` — a passionate developer & designer from Bali, Indonesia
 
-- SMK graduate, majoring in **Rekayasa Perangkat Lunak**
+- SMK TI Bali Global graduate, majoring in **Rekayasa Perangkat Lunak**
 - Love crafting **full-stack web apps**, **mobile apps** & **UI/UX designs**
 - Always exploring new tech and pushing creative boundaries
 - Building **innovative**, **user-centered** digital solutions
