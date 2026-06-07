@@ -73,7 +73,10 @@ and **UI/UX designs**, always exploring new tech and pushing creative boundaries
 ## 🌟 Code Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deanity&theme=radical&hide_border=false" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deanity&theme=react-dark&hide_border=true" width="100%"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deanity&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deanity&theme=radical" height="160"/>
 </div>
 
 ---
